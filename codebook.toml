@@ -3,6 +3,7 @@ words = [
     "cloudflare",
     "cron",
     "shopify",
+    "feedsta",
 ]
 flag_words = []
 ignore_paths = []
